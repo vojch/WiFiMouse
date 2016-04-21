@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiFi Mouse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="accel">accel</string>
+    <string name="udp">UDP</string>
+    <string name="_192_168_1_5">192.168.1.5</string>
+
+</resources>
